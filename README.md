@@ -102,6 +102,10 @@ Would you like me to generate or update any of these—for example, embed visual
 
 ---
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 
 Let me know if you'd like to:
