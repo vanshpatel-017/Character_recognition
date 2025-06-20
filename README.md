@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 3. Launch the notebook
 
-jupyter notebook notebook/Character_recognition_notebook.ipynb
+jupyter notebook Notebook/Character_recognition_notebook.ipynb
 
 
 ## 🧪 Model Details
@@ -77,6 +77,28 @@ Metrics: Accuracy, Loss per epoch
 
 Input Shape: Adjusted via transforms.Resize and transforms.ToTensor
 
+
+---
+
+## 🚀 Sample Results
+
+### 🎯 Training & Validation Curves
+![Training Accuracy](Visualizations/Training_accuracy_curve.png)  
+![Training Loss](Visualizations/Training_loss_curve.png)
+
+### 📊 Per-Class Accuracy & Confusion Matrix
+![Per-Class Accuracy](Visualizations/Per_class_accuracy.png)  
+![Confusion Matrix](Visualizations/Confusion_matrix.png)
+
+---
+
+## ✅ Summary
+
+- Strong fundamentals with clean design and visuals.
+- Add polished README visuals, license, usage instructions, and version pinning to level it up further.
+
+Would you like me to generate or update any of these—for example, embed visuals in README, add a license, draft a `predict.py`, or pin your `requirements.txt`?
+::contentReference[oaicite:0]{index=0}
 
 ---
 
